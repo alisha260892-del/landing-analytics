@@ -46,7 +46,7 @@
 Отчёт приходит в Telegram в виде текстового сообщения и изображения:
 
 ```
-📊 Еженедельный отчет по лендингу zerocoder.ru/v1-claude-code
+📊 Еженедельный отчет по лендингу zerocoder.ru/namelanding
 
 Визиты: 342
 Просмотры: 510
@@ -134,7 +134,7 @@ py -m venv venv
 - `YANDEX_METRIKA_COUNTER_ID` — ID счётчика
 - `TELEGRAM_BOT_TOKEN` — токен бота от @BotFather
 - `TELEGRAM_CHAT_ID` — ID чата для отправки отчётов
-- `LANDING_PATH` — URL лендинга для анализа, например `zerocoder.ru/v1-claude-code`
+- `LANDING_PATH` — URL лендинга для анализа, например `zerocoder.ru/namelanding`
 
 Файл `.env` не публикуется и не попадает в git.
 
